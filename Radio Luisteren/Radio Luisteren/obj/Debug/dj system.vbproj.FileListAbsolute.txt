@@ -1,0 +1,16 @@
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\bin\Debug\Radio Luisteren.exe.config
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\bin\Debug\Radio Luisteren.exe
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\bin\Debug\Radio Luisteren.pdb
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\bin\Debug\Radio Luisteren.xml
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\bin\Debug\Interop.WMPLib.dll
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\obj\Debug\Interop.WMPLib.dll
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\obj\Debug\dj system.vbproj.ResolveComReference.cache
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\obj\Debug\Radio_Luisteren.Form1.resources
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\obj\Debug\Radio_Luisteren.Resources.resources
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\obj\Debug\Radio_Luisteren.Update.resources
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\obj\Debug\dj system.vbproj.GenerateResource.Cache
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\obj\Debug\Radio Luisteren.exe
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\obj\Debug\Radio Luisteren.xml
+C:\Users\Joël\documents\visual studio 2013\Projects\dj system\dj system\obj\Debug\Radio Luisteren.pdb
